@@ -4,7 +4,7 @@ Projeto Integrador do curso Técnico em Automação Industrial (SENAI / FATEC SE
 Autores: Carlos Henrique Maciel Ramires, Julio Cesar de Souza Pedro e Mizael Oliveira dos Santos.
 Orientadora: Profa. Andressa Helena Melo Costa.
 
-**Acesse:** https://mizaelsantos.github.io/torre-resfriamento/
+**Acesse:** https://mizaelsantos.github.io/torre-resfriamento/](https://mizaelsantos.github.io/TorreSCADA_3D/
 
 O supervisório roda inteiro no navegador, sem instalar nada:
 
