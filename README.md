@@ -2,7 +2,7 @@
 
 Projeto Integrador do curso Técnico em Automação Industrial (SENAI / FATEC SENAI, Três Lagoas, MS, 2026).
 Autores: Carlos Henrique Maciel Ramires, Julio Cesar de Souza Pedro e Mizael Oliveira dos Santos.
-Orientadora: Profa. Andressa Helena Melo Costa.
+Orientadores: Profa. Dra. Andressa Helena Melo Costa e Prof. Lucas Araújo Aranha.
 
 **Acesse:** https://mizaelsantos.github.io/TorreSCADA_3D/
 
